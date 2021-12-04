@@ -1,13 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-<<<<<<< HEAD
   
-=======
-  "engines": {
-    "node": "6.14.13"
-  },
->>>>>>> acf3143028daa7b36b11d14d0448e696063b1356
   "private": true,
   "dependencies": {
     "@emotion/core": "^11.0.0",
